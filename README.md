@@ -1,4 +1,4 @@
-# 🧠 Cloud-Powered-Mental-Health-System
+# 🧠 Cloud Based Mental Health Survey Dashboard
 
 ## 📘 Overview
 **Cloud-Based Mental Health Survey Dashboard** is an end-to-end, cloud-enabled system to **collect, analyze, and visualize** student mental health data in real time. The system uses **Google Forms** for anonymous data collection, **Google Sheets** as a live datastore, **Python** for data cleaning and analysis, and **Power BI** for interactive dashboards. The project was developed as an undergraduate engineering project and evaluated on a pilot dataset (≈210 responses).
